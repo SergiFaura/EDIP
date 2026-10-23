@@ -1,0 +1,33 @@
+{
+  "name": "EDIP Centre de Psicologia",
+  "base_url": "https://www.ediptarrega.com",
+  "phone": "+34654298745",
+  "phone_display": "+34 654 298 745",
+  "email": "edip@ediptarrega.com",
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.041254140261!2d1.1409281000000002!3d41.647588600000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a6e1857beb620f%3A0x214ca32e46a81df3!2sEDIP%20%7C%20Psicologia%20T%C3%A0rrega!5e1!3m2!1ses-419!2ses!4v1791896865244!5m2!1ses-419!2ses",
+  "instagram": "https://www.instagram.com/edip_judithfaurapsicologia/",
+  "maps": "https://www.google.com/maps/place/EDIP+%7C+Educaci%C3%B3+i+Psicologia/data=!4m7!3m6!1s0x12a6e1857beb620f:0x214ca32e46a81df3!8m2!3d41.6475886!4d1.1409281!16s%2Fg%2F11vrhppmg7!19sChIJD2Lre4XhphIR8x2oRi6jTCE",
+  "maps_reviews": "https://www.google.com/maps/place/EDIP+%7C+Educaci%C3%B3+i+Psicologia/@41.6546999,1.1281858,2567m/data=!3m1!1e3!4m12!1m2!2m1!1sEDIP+%7C+Educaci%C3%B3+i+Psicologia+T%C3%A0rrega!3m8!1s0x12a6e1857beb620f:0x214ca32e46a81df3!8m2!3d41.6475886!4d1.1409281!9m1!1b1!15sCiZFRElQIHwgRWR1Y2FjacOzIGkgUHNpY29sb2dpYSBUw6BycmVnYZIBDHBzeWNob2xvZ2lzdOABAA!16s%2Fg%2F11vrhppmg7",
+  "whatsapp": "https://wa.me/34654298745?text=Hola%2C%20voldria%20demanar%20informaci%C3%B3%20per%20a%20una%20primera%20visita%20a%20EDIP.",
+  "address": "Plaça del Carme, 17, Entresol 1a · 25300 Tàrrega, Lleida",
+  "street": "Plaça del Carme, 17, Entresol 1a",
+  "postal_code": "25300",
+  "city": "Tàrrega",
+  "region": "Lleida",
+  "country": "ES",
+  "logo": "assets/images/logo-edip.png",
+  "favicon": "assets/images/logo-edip.png",
+  "og_image": "assets/images/logo-edip.png",
+  "business_image": "assets/images/centre-passadis.webp",
+  "images": {
+    "judith": "assets/images/judith-faura.webp",
+    "ester": "assets/images/ester.webp",
+    "maria": "assets/images/maria.webp",
+    "teresa": "assets/images/teresa.webp",
+    "adults": "assets/images/sala-adults.webp",
+    "adolescents": "assets/images/sala-adolescents.webp",
+    "infants": "assets/images/sala-infants.webp",
+    "logopedia": "assets/images/sala-logopedia.webp",
+    "tallers": "assets/images/sala-tallers.webp"
+  }
+}

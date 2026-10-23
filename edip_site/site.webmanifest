@@ -1,0 +1,16 @@
+{
+  "name": "EDIP Centre de Psicologia",
+  "short_name": "EDIP",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf6f2",
+  "theme_color": "#9b4d32",
+  "icons": [
+    {
+      "src": "assets/images/logo-edip.png",
+      "sizes": "580x252",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

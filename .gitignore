@@ -1,0 +1,28 @@
+# Configuració privada local: conservar al PC, mai versionar-la.
+**/google-reviews-config.js
+/API_GOOGLE.txt
+*.env
+.env*
+!.env.example
+*.pem
+*.key
+
+# Originals i evidències locals; el web utilitza els WebP de producció.
+/Imateges equip/
+/qa/*/
+/qa/*.json
+/qa/*.patch
+/qa/*.png
+/qa/*.jpg
+/qa/*.zip
+/qa/*.html
+**/__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Scripts històrics d'implementació, no són manteniment vigent.
+/qa/implement_*.py
+/qa/update_services.py
+/qa/convert_rooms.py
+/qa/inventory_assets.py
